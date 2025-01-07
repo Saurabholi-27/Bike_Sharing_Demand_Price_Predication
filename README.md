@@ -1,4 +1,4 @@
-# ML_Bike_Sharing_Demand_Prediction_Regression_Project
+# Bike Sharing Demand Prediction Regression Project
 ![Bike demand](https://github.com/data-enthusiast-shubhs/ML_Bike_Shaing_Demand_Prediction_Regression_Project/assets/115934788/7a9c6057-5548-4f4d-87c3-6a2c1305b0ed)
 
 This repository contains a machine learning project aimed at predicting the demand for bikes in a bike sharing system. Accurately forecasting bike demand can help optimize inventory and pricing strategies for bike rental companies. In this project, we develop a regression supervised machine learning model to predict bike demand in a given time period.
